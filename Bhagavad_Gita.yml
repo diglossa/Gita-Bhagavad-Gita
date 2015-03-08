@@ -1,0 +1,97 @@
+---
+author: 
+  lang: sa
+  url: Gita
+  nic: gita
+  ru: Гита
+  en: Gita
+
+translators:
+  - nic: smirnov
+    lang: ru
+    ru: Смирнов Б.Л
+    en: B. L. Smirnov 
+  - nic: smirnov_doslovno
+    lang: ru
+    ru: Смирнов Б.Л verbatim
+    en: B. L. Smirnov verbatim
+  - nic: sementsov
+    lang: ru
+    ru: Семенцов В.С.
+    en: V.S. Sementsov
+  - nic: nirmalananda
+    lang: en
+    ru: свами Нирмалананда
+    en: Swami Nirmalananda
+  - nic: prasad
+    lang: en
+    ru: свами Прасад
+    en: Ramanand Prasad
+  - nic: swarupananda
+    lang: en
+    ru: свами Сварупананда
+    en: Swami Swarupananda
+  - nic: translit
+    lang: en
+    ru: транслитерация
+    en: transliteration
+
+tree:
+  url: Bhagavad_Gita
+  en: Bhagavad Gita
+  ru: Бхагавад-гита
+  children:
+    - url: Chapter_1
+      en: Chapter 1
+      ru: Глава 2
+    - url: Chapter_2
+      en: Chapter 2
+      ru: Глава 1
+    - url: Chapter_3
+      en: Chapter 3
+      ru: Глава 3
+    - url: Chapter_4
+      en: Chapter 4
+      ru: Глава 4
+    - url: Chapter_5
+      en: Chapter 5
+      ru: Глава 5
+    - url: Chapter_6
+      en: Chapter 6
+      ru: Глава 6
+    - url: Chapter_7
+      en: Chapter 7
+      ru: Глава 7
+    - url: Chapter_8
+      en: Chapter 8
+      ru: Глава 8
+    - url: Chapter_9
+      en: Chapter 9
+      ru: Глава 9
+    - url: Chapter_10
+      en: Chapter 10
+      ru: Глава 10
+    - url: Chapter_1
+      en: Chapter 1
+      ru: Глава 1
+    - url: Chapter_11
+      en: Chapter 11
+      ru: Глава 11
+    - url: Chapter_12
+      en: Chapter 12
+      ru: Глава 12
+    - url: Chapter_12
+      en: Chapter 12
+      ru: Глава 12
+    - url: Chapter_13
+      en: Chapter 13
+      ru: Глава 13
+    - url: Chapter_14
+      en: Chapter 14
+      ru: Глава 14
+    - url: Chapter_15
+      en: Chapter 15
+      ru: Глава 15
+    - url: Chapter_16
+      en: Chapter 16
+      ru: Глава 16
